@@ -1,0 +1,20 @@
+{
+  "lesson": 51,
+  "application": "Architecture Selection Lab",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "scores": {
+      "sequential": 1,
+      "fan_out_fan_in": 4,
+      "evaluator_optimizer": 4,
+      "blackboard": 1
+    },
+    "selected": [
+      "evaluator_optimizer",
+      "fan_out_fan_in"
+    ],
+    "rationale": "Combine parallel evidence collection with a bounded review stage; each extra model call adds cost."
+  },
+  "measured_cost_usd": null
+}

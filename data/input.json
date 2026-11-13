@@ -1,0 +1,5 @@
+{
+  "needs_parallel": true,
+  "needs_review": true,
+  "needs_shared_state": false
+}

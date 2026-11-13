@@ -1,0 +1,16 @@
+{
+  "lesson": 51,
+  "title": "Choose the Right Agent Architecture",
+  "application": "Architecture Selection Lab",
+  "purpose": "Score coordination patterns against explicit task constraints and explain the resulting trade-off.",
+  "exercise": "Toggle one requirement at a time. Explain how the selected patterns change and why ties use a stable rule.",
+  "source_topics": [
+    "00-Patrones de arquitectura agéntica.png",
+    "01-Why-Architecture-Patterns-Matter.png",
+    "02-Coordination-Patterns.png",
+    "03-Quality-and-Collaboration-Patterns.png",
+    "04-Compare-the-Trade-Offs.png",
+    "05-Select-a-Pattern-Step-by-Step.png",
+    "06-Combine-Patterns-and-Iterate.png"
+  ]
+}
